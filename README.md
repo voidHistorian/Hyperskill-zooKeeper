@@ -1,2 +1,2 @@
 # Hyperskill-zooKeeper
- Hyperskill frontent dev track zooKeeper project final solution
+Hyperskill 'frontent-dev' track zooKeeper project final solution
